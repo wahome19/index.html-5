@@ -4,11 +4,11 @@
   </head>
   <body>
     <table>
-        <th align="center" XYZ WHOLESALER</th>
+        <th align="center">XYZ WHOLESALER</th>
       <tr>
-        <td><b>Product No</b></td>
-        <td><b>Product Name</b></td>
-        <td><b>Quantity</b></td>
+        <th><b>Product No</b></th>
+        <th><b>Product Name</b></th>
+        <th><b>Quantity</b></th>
       </tr>
       <tr>
         <td>1001</td>
