@@ -5,6 +5,7 @@
   <body>
     <h1 align="center">XYZ WHOLESALER</h1>
     <table border="1" align="center">
+      <tr> <h1 align="center">XYZ WHOLESALER</h1></tr>
       <tr>
         <th><b>Product No</b></th>
         <th><b>Product Name</b></th>
