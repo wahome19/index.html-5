@@ -3,8 +3,10 @@
     <title>XYZ Wholesaler</title>
   </head>
   <body>
-    <table border="1" align="center"  cellpadding="10" cellspacing="0" >
+    <table border="1" align="center">
+      <tr>
       <h2 align="center">XYZ WHOLESALER</h2>
+      </tr>
       <tr>
         <th><b>Product No</b></th>
         <th><b>Product Name</b></th>
