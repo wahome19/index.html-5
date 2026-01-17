@@ -5,7 +5,7 @@
   <body>
     <table border="1" align="center">
       <tr>
-      <h2 align="center">XYZ WHOLESALER</h2>
+      <h1 align="center">XYZ WHOLESALER</h1>
       </tr>
       <tr>
         <th><b>Product No</b></th>
