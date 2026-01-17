@@ -3,8 +3,8 @@
     <title>XYZ Wholesaler</title>
   </head>
   <body>
-    <table border="2">
-      <caption align="center" >XYZ WHOLESALER</caption>
+    <table border="1">
+      <caption align="center" ><b>XYZ WHOLESALER</b></caption>
       <tr>
         <th><b>Product No</b></th>
         <th><b>Product Name</b></th>
