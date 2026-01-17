@@ -4,7 +4,7 @@
   </head>
   <body>
     <table>
-      <tr> <h1 border="1" align="center">XYZ WHOLESALER</h1></tr>
+      <tr> <td><h1 border="1" align="center">XYZ WHOLESALER</td></h1></tr>
       <tr>
         <th><b>Product No</b></th>
         <th><b>Product Name</b></th>
